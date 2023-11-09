@@ -1,6 +1,6 @@
 # Desafio 🥇 Aula 4 - Dev Aprender
 
-### Enuciado:
+### Enunciado:
 Quero que você defina as seguintes variáveis, inicialmente todas como False, a ideia aqui não é de se importar com os valores dentro dessas variáveis, mas sim como montar condicionais.
 
 ```ruby
